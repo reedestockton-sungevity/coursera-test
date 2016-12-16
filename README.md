@@ -1,3 +1,0 @@
-# coursera-test
-
-Coursera-test
